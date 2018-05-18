@@ -1,0 +1,2 @@
+start valicoind
+start simplewallet
